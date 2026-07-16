@@ -1,4 +1,4 @@
-# buildifier: disable=load-on-top
+# buildifier: (disable=load-on-top)
 
 workspace(name = "org_tensorflow")
 
